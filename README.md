@@ -10,3 +10,5 @@
 3. Teamweek (https://teamweek.com).
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+
+![alt text](https://github.com/ctel-prj-mng/1-gantt-60218-MarinaSvistunova/blob/master/%D0%93%D0%B0%D0%BD%D1%82.png)
