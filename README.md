@@ -17,4 +17,4 @@
 
 ## Риски
 
-[](https://github.com/ctel-prj-mng/1-gantt-60218-MarinaSvistunova/blob/master/risks.md)
+https://github.com/ctel-prj-mng/1-gantt-60218-MarinaSvistunova/blob/master/risks.md
