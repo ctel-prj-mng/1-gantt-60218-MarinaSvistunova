@@ -11,4 +11,10 @@
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
 
+## Диаграмма Ганта
+
 ![alt text](https://github.com/ctel-prj-mng/1-gantt-60218-MarinaSvistunova/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%93%D0%B0%D0%BD%D1%82%D0%B0.png)
+
+## Риски
+
+[](https://github.com/ctel-prj-mng/1-gantt-60218-MarinaSvistunova/blob/master/risks.md)
